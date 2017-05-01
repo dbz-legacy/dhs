@@ -1,2 +1,2 @@
 # dhs
-Experiment
+Test discord bot for hetzner api
