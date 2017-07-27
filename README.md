@@ -1,2 +1,2 @@
 # dhs
-Test discord bot for hetzner api
+Test discord bot for hetzner api 
